@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Tyler Smith",
+        "age" : 21
+    },
+    {
+        "id": 2,
+        "name": "Anna Smith",
+        "age" : 22
+    },
+    {
+        "id": 3,
+        "name": "Roger Sam",
+        "age" :33
+    },
+    {
+        "id": 4,
+        "name": "Ozzy Ahlex",
+        "age" : 65
+    },
+    {
+        "id": 5,
+        "name": "Robert Theyah",
+        "age" : 12
+    },
+    {
+        "id": 6,
+        "name": "Tyler Smith",
+        "age" : 11
+    },
+    {
+        "id": 7,
+        "name": "Tyler Smith",
+        "age" : 14
+    }
+]
